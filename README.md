@@ -1,4 +1,4 @@
- HR-Attrition-Analysis
+HR-Attrition-Analysis
 HR Employee Attrition Analysis using Excel, Power BI and DAx
 
 📌 Project Overview
@@ -150,15 +150,14 @@ The dashboard helps HR teams understand:
 HR-Attrition-Analysis/
 │
 ├── README.md
-│
 ├── Data/
+│   ├── HR_Attrition_Raw.xlsx
 │   └── HR_Attrition_Cleaned.xlsx
-│
 ├── PowerBI/
 │   └── HR_Attrition_Dashboard.pbix
-│
-└── Screenshots/
-    └── HR_Attrition_Dashboard.pn
+├── Screenshots/
+│   └── HR_Attrition_Dashboard.png
+
 
 Project Workflow
 
@@ -193,7 +192,6 @@ Skills Demonstrated
  👩‍💻 Author
 
 Gayathri R
-Aspiring Data Analyst
 
 
 
